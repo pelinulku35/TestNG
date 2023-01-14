@@ -38,4 +38,3 @@ public class C01_SoftAssert {
         Driver.closeDriver();
     }
 }
-// burası onemli
